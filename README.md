@@ -1,1 +1,1 @@
-# py-study-django
+# py-django-tutorial
